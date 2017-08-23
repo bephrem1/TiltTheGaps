@@ -1,4 +1,4 @@
-# TiltTheGaps
+# Tilt The Gaps
 "Flappy Bird"-like Game Utilizing The Android Gyroscope For Unique Game Modes<br />
 By: Benyam Ephrem<br />
 Date Created: Around 2015<br />
