@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tilt</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="game_title">T I L T</string>
+    <string name="play_game">تلعب لعبة</string>
+    <string name="share_string">حصة</string>
+    <string name="rate_string">معدل والمراجعة</string>
+    <string name="playagain_string">لعب مرة أخرى</string>
+    <string name="ads_string">إيقاف الإعلانات</string>
+    <string name="removeads_string">إزالة الإعلانات</string>
+    <string name="mainmenu_string">القائمة الرئيسية</string>
+    <string name="title_activity_game_screen">لعبة الشاشة</string>
+    <string name="title_activity_redirect">إعادة توجيه</string>
+    <string name="turn_off_ads">إيقاف الإعلانات</string>
+    <string name="how_to_play">كيفية اللعب</string>
+    <string name="turn_music_off">تتحول الموسيقى معطلة</string>
+    <string name="you">أنت</string>
+    <string name="lose">تفقد!</string>
+    <string name="your_score">نقاط الخاص بك</string>
+    <string name="high_score">ارتفاع نقاط</string>
+    <string name="new_string">"جديد "</string>
+    <string name="will_string">"وسوف !!!"</string>
+    <string name="sharing_string">تأتي تلعب هذه اللعبة رهيبة وجدت في مسرحية بعنوان TILT متجر جوجل. انها حقا متعة !!!</string>
+
+    <string name="instrictions_string">"1.) تأكد من ويعقد الجهاز مسطحة تماما عند بدء تشغيل اللعبة
+
+     2.) إمالة الكرة من خلال المستطيلات قدوم مع تجنب لمس الجانبين الأيسر والأيمن من الشاشة
+
+     3.) دون 'ر ننسى أن معدل ومراجعة TILT !!! أنا يهتمون اهتماما عميقا المستخدمين بلدي وسيثبت بنشاط أي مشاكل ومعالجة أي مخاوف لديك لذلك نسأل فقط! "</string>
+</resources>

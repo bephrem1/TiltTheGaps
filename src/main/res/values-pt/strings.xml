@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tilt</string> <!-- exclude -->
+    <string name="action_settings">Definições</string>
+    <string name="game_title">T I L T</string> <!-- exclude -->
+    <string name="play_game">Jogo Como Jogar</string>
+    <string name="share_string">Quota</string>
+    <string name="rate_string">Avaliar e Rever</string>
+    <string name="playagain_string">Jogar Novamente</string>
+    <string name="ads_string">Desativar Anúncios</string>
+    <string name="removeads_string">Desativar Anúncios</string>
+    <string name="mainmenu_string">Menu Principal</string>
+    <string name="title_activity_game_screen">GameScreen</string> <!-- exclude -->
+    <string name="title_activity_redirect">Redirect</string> <!-- exclude -->
+    <string name="turn_off_ads">Desativar Anúncios</string>
+    <string name="how_to_play">Como Jogar</string>
+    <string name="turn_music_off">Vire Música Desligado</string>
+    <string name="you">L H E</string>
+    <string name="lose">PERDER !</string>
+    <string name="your_score">Sua Pontuação</string>
+    <string name="high_score">Pontuação Elevada</string>
+    <string name="new_string">"Novo "</string>
+    <string name="will_string">"Eu irei !!!"</string>
+    <string name="sharing_string">Vamos jogar este jogo incrível que eu encontrei na loja Google Play chamado TILT. É muito divertido !!!</string>
+
+    <string name="instrictions_string">"    1.) Verifique se o seu dispositivo é mantido totalmente plana quando o jogo é iniciado
+
+     2.) Incline a bola através dos retângulos que se aproxima, evitando tocar nos lados esquerdo e direito da tela
+
+     3.) Não se esqueça de avaliar e revisar TILT !!! Me preocupo profundamente com os meus usuários e irá corrigir ativamente quaisquer problemas e resolver quaisquer preocupações que você tem tão só pedir! "</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:orientation="vertical"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+             android:id="@+id/main_view"
+             android:background="#ff2f5c89">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:id="@+id/scoreTextView"
+        android:layout_gravity="center_horizontal|top"
+        android:textSize="60sp"
+        android:textColor="#ffff4a39"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Tilt the screen in any direction to move the ball"
+        android:id="@+id/instructionsTextView"
+        android:layout_gravity="center"/>
+</FrameLayout>
+
+

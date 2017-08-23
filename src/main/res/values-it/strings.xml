@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tilt</string> <!-- exclude -->
+    <string name="action_settings">Impostazioni</string>
+    <string name="game_title">T I L T</string> <!-- exclude -->
+    <string name="play_game">Giocare Gioco</string>
+    <string name="share_string">Quota</string>
+    <string name="rate_string">Punteggio e Commenti</string>
+    <string name="playagain_string">Giocare di nuovo</string>
+    <string name="ads_string">Disattivare Annunci</string>
+    <string name="removeads_string">Rimuovere Annunci</string>
+    <string name="mainmenu_string">Menu Principale</string>
+    <string name="title_activity_game_screen">GameScreen</string> <!-- exclude -->
+    <string name="title_activity_redirect">Redirect</string> <!-- exclude -->
+    <string name="turn_off_ads">Disattivare Annunci</string>
+    <string name="how_to_play">Come Giocare</string>
+    <string name="turn_music_off">Girare Musica Disattivato</string>
+    <string name="you">V O I</string>
+    <string name="lose">PERDERE!</string>
+    <string name="your_score">Il Tuo Punteggio</string>
+    <string name="high_score">Punteggio Migliore</string>
+    <string name="new_string">"Nuovo "</string>
+    <string name="will_string">"Lo farò !!!"</string>
+    <string name="sharing_string">Venite a giocare a questo gioco fantastico che ho trovato nel Play Store di Google chiamato TILT. E `davvero divertente !!!</string>
+
+    <string name="instrictions_string">"    1.) Assicurarsi che il dispositivo viene tenuto completamente piatto quando il gioco viene avviato
+
+     2.) Inclinare la palla attraverso i rettangoli in arrivo, evitando di toccare i lati sinistro e destro dello schermo
+
+     3.) Non dimenticate di votare e revisione TILT. Mi preoccupo profondamente i miei utenti e attivamente risolvere tutti i problemi e risolvere eventuali problemi che avete così basta chiedere!!! "</string>
+</resources>

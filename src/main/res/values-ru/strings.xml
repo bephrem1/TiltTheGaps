@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tilt</string> <!-- exclude -->
+    <string name="action_settings">Установки</string>
+    <string name="game_title">T I L T</string> <!-- exclude -->
+    <string name="play_game">Играть в игру</string>
+    <string name="share_string">доля</string>
+    <string name="rate_string">Оценка и отзыв</string>
+    <string name="playagain_string">играть снова</string>
+    <string name="ads_string">Выключите Объявления</string>
+    <string name="removeads_string">Выключите Объявления</string>
+    <string name="mainmenu_string">Главное меню</string>
+    <string name="title_activity_game_screen">GameScreen</string> <!-- exclude -->
+    <string name="title_activity_redirect">Redirect</string> <!-- exclude -->
+    <string name="turn_off_ads">Выключите Объявления</string>
+    <string name="how_to_play">Как играть</string>
+    <string name="turn_music_off">Включите Музыка Выкл</string>
+    <string name="you">В А М</string>
+    <string name="lose">ПОТЕРЯТЬ!</string>
+    <string name="your_score">Ваше Гол</string>
+    <string name="high_score">Лучший результат</string>
+    <string name="new_string">"Нью "</string>
+    <string name="will_string">"Я буду !!!"</string>
+    <string name="sharing_string">Приходите играть в эту удивительную игру я нашел в магазине Play Google под названием TILT. Это действительно весело !!!</string>
+
+    <string name="instrictions_string">"    1.) Убедитесь, что устройство проходит полностью плоская, когда игра началась
+
+     2.) Наклоните мяч через встречных прямоугольников, избегая при этом прикосновения к левой и правой стороны экрана
+
+     3.) Не забудьте скорость и обзор TILT !!! Я глубоко заботит моих пользователей и будет активно исправить любые проблемы и решать любые проблемы, которые Вы до сих просто спросите! "</string>
+</resources>

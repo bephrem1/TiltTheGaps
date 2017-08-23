@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tilt</string> <!-- exclude -->
+    <string name="action_settings">的设置</string>
+    <string name="game_title">T I L T</string> <!-- exclude -->
+    <string name="play_game">玩游戏</string>
+    <string name="share_string">共享</string>
+    <string name="rate_string">打分和评论</string>
+    <string name="playagain_string">再次播放</string>
+    <string name="ads_string">移除广告</string>
+    <string name="removeads_string">移除广告</string>
+    <string name="mainmenu_string">Main Menu</string>
+    <string name="title_activity_game_screen">GameScreen</string> <!-- exclude -->
+    <string name="title_activity_redirect">Redirect</string> <!-- exclude -->
+    <string name="turn_off_ads">移除广告</string>
+    <string name="how_to_play">如何玩</string>
+    <string name="turn_music_off">关闭 音乐</string>
+    <string name="you">你</string>
+    <string name="lose">输了！</string>
+    <string name="your_score">你的分数</string>
+    <string name="high_score">高的分数</string>
+    <string name="new_string">"新 "</string>
+    <string name="will_string">"我会的 !!!"</string>
+    <string name="sharing_string">快来玩这个游戏真棒，我发现在所谓的倾斜谷歌Play商店。这真的很有趣！</string>
+
+    <string name="instrictions_string">“    1）确保您的设备保持完全平坦的，当游戏开始
+
+    2.）倾斜球通过迎面而来的矩形，同时避免触摸屏的左侧和右侧
+
+    3）唐`吨忘记率和审查TILT！我很关心我的用户，将积极解决任何问题，并解决你所以才问任何问题！“</string>
+</resources>

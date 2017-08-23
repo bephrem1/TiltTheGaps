@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:ads="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:id="@+id/redirect_layout">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="#ff60d0a6"
+        android:id="@+id/main_view">
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:text="@string/removeads_string"
+            android:id="@+id/removeAdsButton"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/white_button"
+            android:textSize="20sp"
+            android:textColor="#ff626664"/>
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:text="@string/share_string"
+            android:id="@+id/shareButton"
+            android:background="@drawable/blue_button"
+            android:layout_marginTop="49dp"
+            android:textSize="20sp"
+            android:textColor="#a8fffffb"
+            android:layout_below="@+id/removeAdsButton"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:text="@string/rate_string"
+            android:id="@+id/rateButton"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/opaque_button"
+            android:textSize="20sp"
+            android:textColor="#a8fffffb"/>
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:text="@string/mainmenu_string"
+            android:id="@+id/mainMenuButton"
+            android:background="@drawable/salmon_button"
+            android:textSize="20sp"
+            android:layout_above="@+id/playAgainButton"
+            android:layout_alignLeft="@+id/rateButton"
+            android:layout_alignStart="@+id/rateButton"
+            android:layout_marginBottom="45dp"/>
+
+        <Button
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:text="@string/playagain_string"
+            android:id="@+id/playAgainButton"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/mainMenuButton"
+            android:layout_alignEnd="@+id/mainMenuButton"
+            android:background="@drawable/yelow_button"
+            android:textSize="21sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/high_score"
+            android:id="@+id/highScoreTitleTextView"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="50sp"
+            android:textColor="#95883dff"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/new_string"
+            android:id="@+id/newTextView"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/highScoreTitleTextView"
+            android:layout_toStartOf="@+id/highScoreTitleTextView"
+            android:textSize="50sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="--"
+            android:id="@+id/highScoreTextView"
+            android:layout_alignTop="@+id/shareButton"
+            android:layout_centerHorizontal="true"
+            android:textColor="#95883dff"
+            android:textSize="70sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/your_score"
+            android:id="@+id/textView3"
+            android:textSize="50sp"
+            android:textColor="#480400ff"
+            android:layout_alignTop="@+id/rateButton"
+            android:layout_alignLeft="@+id/highScoreTitleTextView"
+            android:layout_alignStart="@+id/highScoreTitleTextView"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="--"
+            android:id="@+id/scoreTextView"
+            android:textColor="#480400ff"
+            android:textSize="70sp"
+            android:layout_below="@+id/textView3"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/lose"
+            android:id="@+id/bottomTextView"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#fffd5c55"
+            android:textSize="70sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/you"
+            android:id="@+id/topTextView"
+            android:layout_above="@+id/bottomTextView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textColor="#fffd5c55"
+            android:textSize="70sp"/>
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-3171635020408755/8456396225">
+        </com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+</LinearLayout>

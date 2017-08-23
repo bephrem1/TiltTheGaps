@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/traditional"
+        android:title="              Traditional Mode             "/>
+
+    <item
+        android:id="@+id/chase"
+        android:title="                 Chase Mode                  "/>
+
+    <item
+        android:id="@+id/shift"
+        android:title="                 Shift Mode                  "/>
+
+</menu>
