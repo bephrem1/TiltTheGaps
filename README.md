@@ -1,6 +1,7 @@
 # TiltTheGaps
 "Flappy Bird"-like Game Utilizing The Android Gyroscope For Unique Game Modes
 By: Benyam Ephrem
+Date Created: Around 2015
 
 History: This is a game created by me when I was in the 10th grade in high school. I had no experience coding and this
 was around the time Flappy Bird came out. I decided to teach myself how to program apps and taught myself Java in 1 month
