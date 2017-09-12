@@ -11,6 +11,8 @@ but since have restarted my ferverent study of programming again.
 Explanation: Flappy Bird is a game where you tap the screen and try to get the bird through the holes in pipes approaching
 the bird. This game I created takes a similar yet different approach. It utilizes the gyroscope of the Android device to manipulate a 
 ball. It simply uses a redraw function and every redraw conditions are checked to advance and facilitate certain game modes.
+
+Retrospection: In reflection 2 years later it is quite clear how sloppy my code used to be. The DRY (Don't Repeat Yourself) rule is certainly not followed, many parts of my code could be much more concise and efficient, and my code does not completely separate concerns into a Model-View-Controller design pattern. Still pretty good for a first app!
 _________________________________________________________________
 
 There are 3 game modes:
